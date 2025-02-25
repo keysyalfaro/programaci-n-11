@@ -13,7 +13,7 @@ En Windows, usa: programa.exe
    - **N** para Normal
    - **E** para Estudiante (descuento del 50%)
    - **S** para Senior (descuento del 30% si tienes más de 60 años)
-   - Y si es un niño menor de 5 años, tendrà el boleto de transporte pùblico de manera gratuita.
+   - Y si es un niño menor de 5 años, tendra el boleto de transporte publico de manera gratuita.
 4. El programa te mostrará el **precio final**.
 
 ## Propietaria
